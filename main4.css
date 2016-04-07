@@ -1,0 +1,29 @@
+.rojo{
+	background: #ee3e64;
+	left: 0;
+	top:0;
+}/* Pon tu código css aqui */
+.azul{
+background:#44accf;
+right: 0;
+top: 0;
+}
+.verde{
+background: #b7d84b;
+left: 0;
+bottom: 0;
+}
+
+.amarillo{
+background:yellow;
+right: 0;
+bottom: 0;
+}
+
+.cuadrado{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	margin:0;
+	padding:0;
+}
